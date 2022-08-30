@@ -38,12 +38,12 @@ const gorgeta = ref("");
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 1px solid black;
-  border-radius: 10px;
-  width: 380px;
+  border: 1px solid grey;
+  border-radius: 12px;
+  width: 390px;
   height: 450px;
-  padding: 0px 10px 10px 10px;
-  background-color: lightblue;
+  padding: 0px 15px 13px 13px;
+  background-color: rgb(255, 196, 0);
 }
 
 input,
@@ -60,7 +60,7 @@ p {
   background-color: white;
 }
 body {
-  background: linear-gradient(gray, white, gray);
+  background: linear-gradient(rgb(56, 56, 56) rgb(97, 97, 97));
   height: 665px;
 }
 </style>
